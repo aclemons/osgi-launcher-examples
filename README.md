@@ -2,4 +2,4 @@
 
 Some example projects using the [osgi-launcher](https://github.com/aclemons/osgi-launcher)
 
-*WIP*
+[embedded-felix-war](embedded-felix-war)
